@@ -5,15 +5,16 @@ This repo contains a sample application based on a Class Management System a fic
 
 The primary goal of this sample is to demonstrate several software-architecture concepts like:
 
-Microservices<br>
-CQRS<br>
-Event driven Architecture<br>
-Event sourcing<br>
-Domain Driven Design (DDD)<br>
-Eventual Consistency<br>
-and how to use container-technologies like:<br><br>
+* Microservices
+* CQRS
+* Event driven Architecture
+* Event sourcing
+* Domain Driven Design (DDD)
+* Eventual Consistency
 
-Docker<br>
-Kubernetes<br>
-#Istio (service-mesh)<br>
-#Linkerd (service-mesh)
+and how to use container-technologies like:
+ 
+* Docker
+* Kubernetes
+* #Istio (service-mesh)
+* #Linkerd (service-mesh)
